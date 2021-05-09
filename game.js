@@ -1,6 +1,6 @@
 enchant();
 
-var MAX_ENEMY = 6;
+var MAX_ENEMY = 60;
 var MAX_SHOT = 3;
 var GAME_WIDTH = 1800;
 var GAME_HEIGHT = 1400;
